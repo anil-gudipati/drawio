@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-26T00:13:29.648Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="1sYu8yUJp8fx_JzJ2Yfv" version="15.5.7" type="github" pages="3">
+<mxfile modified="2021-10-26T07:48:42.984Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Cv3QI7wRmxrQtZv20ydd" version="15.5.7" type="github" pages="3">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="AWT">
     <mxGraphModel dx="4476" dy="3696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -607,7 +607,7 @@
             <mxPoint x="410" y="-190.99999999999977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cPrQWvVLQQoGQQt7fCXE-17" value="Data&lt;br&gt;Queue" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="52gXtw9bFDo5dOnZmd_t-1">
+        <mxCell id="cPrQWvVLQQoGQQt7fCXE-17" value="Manual&lt;br&gt;Queue" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sqs;fillColor=#D9A741;gradientColor=none;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="52gXtw9bFDo5dOnZmd_t-1">
           <mxGeometry x="798" width="76.5" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="cPrQWvVLQQoGQQt7fCXE-18" value="Admin&lt;br&gt;Bucket" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=top;verticalAlign=bottom;align=center;html=1;fontSize=15;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;labelBackgroundColor=none;labelPosition=center;" vertex="1" parent="52gXtw9bFDo5dOnZmd_t-1">
